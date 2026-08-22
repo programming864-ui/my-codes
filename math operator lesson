@@ -1,0 +1,27 @@
+//operators lesson
+//math lesson
+//first plus= kokrdnawa regakany kokrdnawa la programming
+// var y =5 ;
+// print(y);
+// y += 1;
+// print(y);
+// //lawayan agar ++ labesh v n daney awa yaksar value zyad dakay
+// print(++y);
+
+// //agar labsht v n ++ daney awa sarata run dakat enja dwatr value zyad dakat
+// print(y++);
+// print(y);
+// //awash regay tra 
+// y = y+1;
+// print(y);
+//note = labo mines wata kamkrdnesh haman shta
+
+// times= charan *
+//  final x=6;
+//  print(x * 6);
+
+// divide = dabash / yan ~/
+var y = 6~/4;
+print(y);
+var x= 5;
+print(x / 5);
