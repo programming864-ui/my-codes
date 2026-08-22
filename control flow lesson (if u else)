@@ -1,0 +1,86 @@
+// // control flow lesson = wata control krdny codakant
+// // if u else u switch
+// //If structure= if(true yan falsa){} : law kawana()marchaka danuse true yan falsa typakay booliana
+// note====(true)bet naw kawama codaka run dabet agar (false)bet run nabet
+//wa lanaw aw kawanay() bewesta herdu lay haman type bet (string==string)
+// var traffic ='Green';
+// //operatore(==)
+// if(traffic== 'red'){
+//     print('stop'); 
+// }
+// if (traffic == 'yellow') {
+//     print('slow down');
+// }
+// if(traffic == 'Green') {
+//     print('Go');
+// }
+
+//awjara [else]structure= else{}=hardam if run nabet else run abet
+// var age = 20;
+// if(age == 20) {
+//     print('you are young');
+// // }else{
+// // print('Age = $age');
+// // }
+// // awajara labo :else: marj dabney wata if e lo daney
+// }else if(age == 26){
+// print('age =$age');
+// }else{
+//     print('you are not adult');
+// }
+// //Note= agar 2 if e sarbaxo bnuse awaa hardu if aka run dabet bas agar else bakar beny awa sarata esh lasar if dakret
+print('.............................................................');
+//operatore tr
+// int age =18;
+// if(age>19){
+//     print('age greater than19');
+// }else if (age == 19 ){
+//     print('age equal to 19');
+// }else if (age < 19){
+// print('age less than 19');
+// }
+print('.............................................................');
+// var age = 19;
+// if(age >= 20){
+//     print('you are adult');
+// }else if (age <20){
+//     print('you are young');
+// }
+print('.............................................................');
+//operatore tr ( != )wata agar yaksan nabu eshaa haks dakatawa 
+
+// var age = 25;
+// if (age != 20){
+// print('age is not 20');
+// }else {
+//     print('age is 20');
+// }
+
+print('.............................................................');
+
+//operatore [and and] [  && ] dabey hardw la true bet enja run dabet lanaw ()kawanay 
+//operatory[or]  [  ] awa yany yan ly rast true bet yan ly jap true bet awja esh dakat
+// var isHungry = true;
+// var hasFood = false;
+// if (isHungry && hasFood){
+//     print('Eat the fooood');
+// }else if (isHungry  hasFood){
+//     print('Go to the supermarket');
+// }
+print('.............................................................');
+//operotory [ ! ] awayan shtaka haks dakatawa true dakata false ...false dakata true
+// if(!false){
+//     print('you are boy');
+// }
+print('.............................................................');
+//danany if lanaw if
+// var age =20;
+// if(age ==20){
+//     print('age is 20');
+//      //dabet value ubdate kay
+//      age = 22;
+//      if(age != 20){
+//         print('age =$age');
+//      }
+// }
+}
