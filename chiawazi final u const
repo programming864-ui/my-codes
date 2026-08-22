@@ -1,0 +1,14 @@
+//baskrny cheawazi newan (final)u(const)
+//final datwany gorankary bkay basar dataka bas const natwany
+
+final numbers = [1,2,3,4];
+const ages = [11,22,33,44];
+print(numbers);
+print(ages);
+
+numbers.add(5);
+print('numners after add 5 =$numbers');
+
+//awata error dadat natwany const sht zyad bkay
+ages.add(66);
+print('ages after add 66 = $ages');
