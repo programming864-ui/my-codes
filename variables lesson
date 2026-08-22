@@ -1,0 +1,38 @@
+/*variable
+/ variable structure
+[modifier = keybordakan][variable-name]=[value];
+/modifiers
+[var . final . const , late] aw chwara
+
+// variable name
+har shtak atw daeney bas saratakay naby shmara yan capital bet 
+
+ex:  var name:'osman';
+/bas la wshay dwam capital daby sarata la variable name  caml case dabet
+final isOpen : true;
+
+late score:9.7;                                                                                                                                                                                              examples:
+
+
+
+
+var int = 44;
+print(int);
+//* value ubdate krdn nak goreny modifier tanha value tr zyaddakam la haman modifier
+//* variable name = value tr ;
+int = 66;
+print(int);
+
+
+
+//* la final ubdate krdn nya
+final age = 19;
+print(age);
+//* final chyger nya wakw const
+final name;
+name ='oo';
+print(name);
+
+const isOpen = true;
+print(isOpen);
+//* const awesh ubdate nakretawa wa chegera daby yaksar value bdaety bas final wa nya
